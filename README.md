@@ -8,4 +8,4 @@ Drop in the translation text files onto \csgo\resource\ directory. Than add '-la
 
 Currently alot of translation lines yet to be translated, roughly 70% ish finished.
 
-FYI (For Your Information) Disclaimer note: You can't get VAC-Banned for using custom translation, lol.
+FYI Disclaimer note: You can't get VAC-Banned for using custom translation, lol.
