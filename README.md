@@ -1,4 +1,4 @@
-# Counter-Strike Japanese Translation (Should be CS2 Compatible)
+# Counter-Strike 日本語 Translation (Should be CS2 Compatible)
 Translated from scratch to japanese. Because the default is missing alot of translations.
 Unused translation strings are removed.
 
