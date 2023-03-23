@@ -4,6 +4,6 @@ Unused translation strings are removed.
 
 Will be updated as frequently as possible, to remain relevant to the game's latest updates. Corrections are very much appreciated.
 
-Drop in the translation text files onto \csgo\resource\ directory. Than add '-language improved_japanese' to launch parameter.
+Drop in the translation text files onto \csgo\resource\ directory. Than add '-language japanese_improved' to launch parameter.
 
 Currently alot of translation lines yet to be translated, roughly 70% ish finished.
