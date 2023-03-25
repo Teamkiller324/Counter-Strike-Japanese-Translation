@@ -3,6 +3,7 @@ Translated from scratch to japanese. Because the default is missing alot of tran
 Unused translation strings are removed.
    - Will be updated as frequently as possible, to remain relevant to the game's latest updates.
    - Corrections are very much appreciated. 👍
+   - ありがとうございます！
 
 ### Setup
    - Drop in the translation text files onto \csgo\resource\ directory.
