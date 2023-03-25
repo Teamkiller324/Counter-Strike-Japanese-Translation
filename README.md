@@ -6,4 +6,4 @@ Will be updated as frequently as possible, to remain relevant to the game's late
 
 Drop in the translation text files onto \csgo\resource\ directory. Than add '-language japanese_improved' to launch parameter.
 
-Currently alot of translation lines yet to be translated, roughly 80% ish finished.
+Currently alot of translation lines yet to be translated, roughly 80-85% ish finished.
