@@ -7,7 +7,7 @@ Unused translation strings are removed.
    - Drop in the translation text files onto \csgo\resource\ directory.
    - Than add '-language japanese_improved' to launch parameter.
 
-## Currently alot of translation lines yet to be translated, roughly 80-85% finished.
+### Currently alot of translation lines yet to be translated, roughly 80-85% finished.
    - Few UI (User-Inferface) yet to be translated.
    - Few HUD localizations yet to be translated.
    - Navigation place names yet fully translated.
