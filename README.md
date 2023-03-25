@@ -15,3 +15,6 @@ Unused translation strings are removed.
    - Navigation place names yet fully translated.
    - Majority of skins yet translated.
    - Very well is in usable state.
+
+### Credits
+   - 404_otukare (Correcting map names)
