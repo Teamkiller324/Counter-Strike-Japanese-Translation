@@ -15,6 +15,8 @@
    - Few HUD localizations yet to be translated.
    - Navigation place names yet fully translated.
    - Majority of skins yet translated.
+   - Majority of stickers are yet translated.
+   - Majority of tournament related is yet translated.
    - Very well is in usable state.
 
 ### Credits
