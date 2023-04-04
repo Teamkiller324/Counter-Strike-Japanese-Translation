@@ -1,4 +1,4 @@
-# Counter-Strike 日本語訳
+# カウンターストライク 日本語訳
    - Translated from scratch to japanese, because the default is missing alot of translations.
    - Unused translation strings are removed.
    - Missing translation strings are added.
