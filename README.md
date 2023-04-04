@@ -20,4 +20,4 @@
    - Very well is in usable state.
 
 ### Credits
-   - 404_otukare (Correcting map names)
+   - [404_otukare](https://twitch.tv/404_otukare) (Correcting map names)
