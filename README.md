@@ -6,7 +6,7 @@ Unused translation strings are removed.
    - ありがとうございます！
 
 ### Setup
-   - Backup the previous files just incase.
+   - Backup the previous file(s) just incase.
    - Drop in the translation text file(s) onto \csgo\resource\ directory.
 
 ### Currently alot of translation lines yet to be translated, roughly 80-85% finished.
