@@ -6,8 +6,8 @@ Unused translation strings are removed.
    - ありがとうございます！
 
 ### Setup
-   - Drop in the translation text files onto \csgo\resource\ directory.
-   - Than add '-language japanese_improved' to launch parameter.
+   - Backup the previous files just incase.
+   - Drop in the translation text file(s) onto \csgo\resource\ directory.
 
 ### Currently alot of translation lines yet to be translated, roughly 80-85% finished.
    - Few UI (User-Inferface) yet to be translated.
