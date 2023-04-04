@@ -1,6 +1,7 @@
 # Counter-Strike 日本語 Translation
    - Translated from scratch to japanese, because the default is missing alot of translations.
-Unused translation strings are removed.
+   - Unused translation strings are removed.
+   - Missing translation strings are added.
    - Will be updated as frequently as possible, to remain relevant to the game's latest updates.
    - Corrections are very much appreciated. 👍
    - ありがとうございます！
