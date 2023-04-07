@@ -4,7 +4,7 @@
    - Missing translation strings are added.
    - Will be updated as frequently as possible, to remain relevant to the game's latest updates.
    - Updated map place/navigation names to closely represent english
-      - This is for callout purposes.
+      - This is for callout purposes, aimed for japanese speakers in mind.
       - Make team understand eachother regardless of language barrier.
    - Corrections are very much appreciated. 👍
    - ありがとうございます！
