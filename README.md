@@ -1,7 +1,7 @@
 # カウンターストライク 日本語訳
    - Translated from scratch to japanese, because the default is missing alot of translations.
-   - Unused translation strings are removed.
-   - Missing translation strings are added.
+   - Unused translation localization strings are removed.
+   - Missing translation localization strings are added.
    - Will be updated as frequently as possible, to remain relevant to the game's latest updates.
    - Updated map place/navigation names to closely represent english both literally and phonetically.
       - This is for callout purposes, aimed for japanese speakers in mind.
