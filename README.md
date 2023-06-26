@@ -3,6 +3,7 @@
    - Unused translation localization strings are removed.
    - Missing translation localization strings are added.
    - Will be updated as frequently as possible, to remain relevant to the game's latest updates.
+   - Will be updated for ``Counter-Strike 2`` as soon the new ``Counter-Strike 2`` game is out.
    - Updated map place/navigation names to closely represent english both literally and phonetically.
       - This is for callout purposes, aimed for japanese speakers in mind.
       - Make team understand eachother regardless of language barrier with callouts.
