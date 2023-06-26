@@ -7,7 +7,7 @@
       - This is for callout purposes, aimed for japanese speakers in mind.
       - Make team understand eachother regardless of language barrier with callouts.
    - Corrections are very much appreciated. 👍
-   - ありがとうございます！
+   - 有難うございます！
 
 ### Setup
    1. Go to steam library page.
