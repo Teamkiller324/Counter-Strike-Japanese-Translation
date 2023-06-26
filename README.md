@@ -18,7 +18,7 @@
    6. Head to ``\csgo\resource`` directory.
    7. Optionally backup the original translation text file ``csgo_japanese.txt`` just incase of problem or returning back to normal.
    8. Drop in the updated translation text file ``csgo_japanese.txt`` onto ``\csgo\resource\`` directory.
-   9. Done, now launch up the game and enjoy a less broken japanese experience.
+   9. Done, now launch up the game making sure game is set to 日本語 and enjoy a less broken japanese experience.
 
 ### Currently alot of translation lines yet to be translated, roughly 80-85% finished.
    - Few UI (User-Interface) texts not yet translated.
