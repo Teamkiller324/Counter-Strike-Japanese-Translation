@@ -1,5 +1,5 @@
 # カウンターストライク 日本語訳
-   - Translated from scratch to japanese, because the default is missing alot of translations, Japanglish basically.
+   - Translated from scratch to japanese, because the default is missing alot of translations (Japanglish basically.)
    - Unused translation localization strings are removed.
    - Missing translation localization strings are added.
    - Will be updated as frequently as possible, to remain relevant to the game's latest updates.
