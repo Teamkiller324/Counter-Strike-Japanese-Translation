@@ -21,12 +21,12 @@
    9. Done, now launch up the game and enjoy a less broken japanese experience.
 
 ### Currently alot of translation lines yet to be translated, roughly 80-85% finished.
-   - Few UI (User-Inferface) yet to be translated.
-   - Few HUD localizations yet to be translated.
-   - Navigation place names yet fully translated.
-   - Majority of skins yet translated.
-   - Majority of stickers are yet translated.
-   - Majority of tournament related is yet translated.
+   - Few UI (User-Interface) texts not yet translated.
+   - Few HUD texts not yet translated.
+   - Navigation place names not yet fully translated.
+   - Majority of skins are not yet translated.
+   - Majority of stickers are not yet translated.
+   - Majority of tournament related not yet translated.
    - Very well is in usable state.
 
 ### Credits
